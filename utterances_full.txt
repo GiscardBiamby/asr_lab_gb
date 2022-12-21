@@ -1,0 +1,600 @@
+The original plan, which Lord knows didn't mean very much when that plan had been made by Jim Clark, was that we would test the boat quickly in the North Sea and then sail it across the Atlantic Ocean.
+If nothing went too badly wrong, it would take us six days to sail down to the Canary Islands and another ten to the Caribbean.
+I had seen Clark in so many different situations that I felt sure I knew him, and the range of behavior he was capable of.
+But there is nothing like sixteen days on the high seas with a small group of people who have a lot of doubts about each other to test one's assumptions about human character.
+On the Atlantic crossing Hyperion would carry only the captain and his seven crew members, one or two computer programmers, Clark and me.
+Why Jim Clark was so worthy of study was another matter, and I'll come to that soon enough.
+For now I'll just say that the quirks in the man's character sent the most fantastic ripples through the world around him.
+Often starting with the best intentions, or no intentions at all, he turned people's lives upside down and subjected them to the most vicious force a human being can be subjected to, change.
+Oddly enough, he was forever claiming that what he really wanted to do was put up his feet and relax.
+He could not do this for more than a minute.
+Once he'd put up his feet, his mind would spin and his face would redden and he'd be disturbed all over again.
+He'd thought of something or someone in the world that needed to be changed.
+His new boat was a case in point.
+For all I knew, Clark would be remembered chiefly as the guy who created Netscape and triggered the Internet boom, which in turn triggered one of the most astonishing grabfests in the history of capitalism.
+Maybe somewhere in a footnote it would be mentioned that he came from nothing, grew up poor, dropped out of high school, and made himself three or four billion dollars.
+It might even be said that he had a nose for the new new thing.
+But to my way of thinking these were only surface details, the least interesting things about him.
+After all, a lot of people these days have a billion dollars.
+Four hundred and sixty-five, according to the July 1999 issue of Forbes magazine.
+And most of them are no more interesting than you or me.
+You have to trust me on this.
+Along the stretch of canal outside of Amsterdam where the water is deepest, the swollen tankers and stout tugs come to rest.
+Neither the driver nor I had the slightest idea where in this stand of massive industrial ships one might park a pleasure boat.
+It was not a place anyone would normally come for fun.
+The driver finally turned around and asked me exactly what I was looking for, and I told him I was looking for the sailboat that would take me out to sea.
+He laughed, but in the way people do who want to prove they get the joke.
+The Dutch do this a lot.
+They appear to live in terror of being mistaken for Germans, and to compensate by finding a funny side to life where none exists.
+Tell a Dutchman that your dog just died, and he will pretend that you have just made some impossibly witty remark.
+This is what the driver did when I told him I was about to go sailing in the North Sea.
+It was early December, the winds were up around thirty-five miles an hour, and the North Seawell, the North Sea in winter is not the place to be in any kind of sailboat.
+The driver roared in the most un-Germanly fashion.
+One moment we were lost; the next we turned a corner and spotted on the horizon the tall, rigid white rod.
+Its brightly colored pennants flew in relief against the gray sky, and its five spreaders reached up into the clouds like a chain of receding crucifixes.
+They beckoned everyone within five miles to drop his jaw in wonder.
+It was then that the driver finally stopped laughing.
+Three minutes later we drove onto the dock up near the low white sailboat, next to the name painted in blue cursive on the side: Hyperion.
+You could tell the driver knew at least a bit about sailboats because he immediately called the boat a "sloop." 
+A sloop is a sailboat with one mast, to distinguish it from a sailboat with two masts, called a "ketch."
+That is the biggest sloop I have ever heard of.
+I said that that was because it was the biggest sloop ever built.
+His eyes moved from the hull to the mast, and from the mast to the boom, and from the boom to the sails, which, unfurled, would cover a football field.
+How many men are needed to handle the sails?
+The Dutchman laughed again, but nervously, as if deciding whether it was better to be mistaken for a German or a fool.
+It wasn't until I told him that the boat did not exactly require a crew, that it could be completely controlled by a computer, that conviction returned to his laughter.
+The whole thing, after all, had been some foreigner's idea of a joke.
+When I arrived that morning of the first North Sea trial, Wolter Huisman was standing on the deck beneath the mast.
+Wolter owned the boatyard that had built Hyperion.
+Wet snow dribbled from his rain gear, and his woolen cap drooped around his ears.
+His chin sunk glumly into his dark tattered parka, and his old Dutch shoulders sagged like a commuter's at the end of a long day.
+Coming up from behind, I caught him muttering to himself.
+Later I learned that Wolter hadn't slept.
+I'd stared at the ceiling all night, worrying.
+What's the worst weather you ever tested a sailboat in?
+He still had the Dutch habit of laughing at whatever you told him, just in case it happened to be a joke.
+But his laugh was harsh and unhappy.
+Wolter was pushing seventy, and his heart was old and weak, but this gloom of his was young and vital.
+Who could blame him? His fate was now intertwined with Hyperion's.
+And Hyperion was at this very moment the most spectacular maritime disaster waiting to happen since the launching of the Titanic.
+Of course, every new yacht that left the Huisman Shipyard was, so far as Wolter was concerned, an accident waiting to happen.
+It had taken Wolter, and his father before him, and his father's father before him, decades to build their reputation as perhaps the world's finest makers of yachts.
+Each time Wolter launched a new yacht, that reputation went up for grabs.
+On that bitterly cold December morning Hyperion left its moorings so silently that the programmers didn't notice.
+The programmers were three young men Jim Clark had flown over from Silicon Valley to the North Sea to help him turn his new yacht into a giant floating computer.
+Each was in his early thirties, each possessed a wardrobe that appeared to consist of nothing but T-shirts and blue jeans, and each was a former employee of Clark's first technology startup, Silicon Graphics.
+They clambered up on deck from below, where they had been typing away on their keyboards, to see what they'd wrought.
+It was as if they hadn't quite believed that Hyperion would float.
+The bridge was a technogeek fantasy.
+Where an experienced sailor would expect to find a familiar row of gadgetsradar, sonar, radio, GPS, and so onwere four large flat-panel computer display screens.
+The three young men took seats in front of these and started pressing buttons.
+Soon enough they were making small quivering sounds that suggested all was not right with the computers.
+On one of the screens was a map of Holland.
+The map focused on the area immediately around us, perhaps twenty square miles.
+A miniature Hyperion inched stealthily across it, like a boat in a video game.
+But according to the computer map we were chugging on top of a farmer's field, and heading toward an airfield.
+The slender canal we were actually on lay three miles to the east.
+Any captain using the computer to run the boat would think he was heading full tilt into an aircraft watchtower.
+I walked out onto the deck to find that the same map occupied the computer screen in front of Allan Prior, the man Clark had hired to captain Hyperion.
+Allan was from the old school.
+He'd won the Whitbread around-the-world race in a sailboat so stripped down that it looked vandalized.
+Allan himself looked vandalized; the wind and the sun had ravaged his complexion.
+Allan did not believe that sailboats should be run by computers.
+Now he was staring straight ahead, attempting to avoid a large ferry that was making a dash across the canal.
+Don't bother me with that.
+I asked him why his boat was in the middle of a wheat field.
+That's a computer problem.
+Clearly, he was in no mood to consider the undeniable fact that his entire boat was a computer problem.
+I returned to the programmers on the bridge.
+After a couple of minutes of furious typing, they had the boat back on the water.
+Yet the head programmer, a fellow named Steve Hague, retained a certain dubiousness.
+His eyes darted back and forth between the edge of the canal and the map on which Hyperion chugged along.
+All of the computer's gauges seemed to be either inadequate or inaccurate.
+A captain steering off themwhich Allan Prior at that moment declined to dowould not only think that he was sailing through a wheat field.
+He'd think he was sailing through a wheat field in the wrong direction.
+For no apparent reason a red light flashed on one of the screens.
+Steve punched some buttons.
+According to the computer we'd been grounded.
+It is truly unfortunate that we find ourselves in this situation.
+Just a few hours earlier the weatherman had predicted Force 4 sailing conditions.
+Force 4 implied pleasant winds of twenty knots and seas of perhaps six feet.
+Even before we left the canal and passed through the locks into the North Sea, the report lost its credibility.
+The gauges on the boat that measured the speed of the wind had frozen at fifty knotsthe computer had not been programmed to register winds any higher.
+As we passed through the lock and into a harbor, we could finally see why Wolter Huisman muttered to himself.
+Fifteen-foot waves crashed against the seawall and flicked their white foam thirty feet in the air, where it mingled with falling snow.
+Gusts of wind blew at seventy miles an hour.
+The boat suddenly began to rock too violently for
+anyone to stare very long into his computer.
+The programmers scrambled out from the bridge and onto the deck, where Allan and Wolter stood together in the snow with pretty much everyone else: twelve boatyard workers, seven crew members, two Dutch friends of Clark's, a photographer, and a German television crew present to document the launching of the world's first computerized sailboat.
+The only person missing was Clark himself, but, then, people who knew Clark knew better than to expect him to be where he was meant to be.
+Sooner or later he'd turn up, usually when he was not wanted.
+It's too goddamn windy out there.
+He shot Allan a meaningful look, who shot it right back to him.
+They both knew that the weather was the least of their problems.
+When Hyperion left the seawall behind, it put itself at the mercy of a furious North Sea.
+Instantly, the boat was seized by forces far greater than itself; its magnificence was trivialized.
+A furious partial corkscrewing motion pulled us up to the right and then down to the left.
+We'd dip into a trough, experience a brief, false moment of calm, and then be picked up and twisted again.
+The German television soundman dropped to his knees, crawled over the side of the boat, and vomited.
+There was no question of his suppressing the urge; it was as if someone had pushed a button on the computer that instructed the man to be sick.
+There, prone and puking on the violent deck, he lifted his microphone into the air to capture the ambient noise.
+A young Dutch friend of Clark's along for the ride chuckled.
+They will always do the job they are given no matter what.
+But the German soundman was a trend setter.
+It took about a minute and a half before the first Dutch boatyard worker leaned over the safety ropes and vomited the Saint Nick's cake he'd been served an hour before.
+A minute later he was joined by two poor colleagues who had been down below monitoring the engines.
+A few minutes after that the three fellows working on the foredeck came back to join the party.
+Then came the rest of the German television crew.
+Hyperion rose and twisted and plunged and settled, then rose and twisted and plunged and settled all over again.
+Within twenty minutes eight men had gone as lifeless as if they had been unplugged from their sockets.
+Those who weren't sick pretended to be amused.
+They clustered around the captain and clung to the rails and smiled crazily at each other.
+Eventually, Allan reduced the engine speed and hoisted the sail.
+He did this by pushing a button, which told the computer to hoist the sail, which the computer, for once, did.
+The mast was hatched with crossbars, called spreaders.
+The sail rose with a great flapping sound past them one by one until at length it reached the second-to-last spreader.
+Just when you thought there could be no more sail, more sail appeared.
+The mainsail alone was 5,600 square feet, a bit more than a quarter of a football field.
+The world's largest sail, as it happened.
+It was expected to handle up to eleven tons of wind.
+That is, the force on its ropes was the equivalent of dangling from their ends an eleven ton steel block.
+Already the ropes were being tested.
+The wind is too strong to let it all out.
+Not until you have hoisted a sail and turned off the engine can you fully appreciate the euphoria that accompanied the invention of the steam engine.
+The boat, now engineless, was subjected to a grosser, more primal force.
+The waves crashed and the spray came in sheets and the partial corkscrewing motion became a full corkscrewing motion.
+The eight men in Puker's Alley retched all over again.
+This time it wasn't so funny to the others.
+A wave washed over the deck and knocked two of the Dutch shipyard workers on the bow off their feet; they were saved from the sea by their safety ropes, which they alone wore.
+The three technogeeks clung to the rails and tried not to remember that they didn't belong here.
+They knew without being told that anyone who went overboard was as good as gone.
+A person tossed into the North Sea in December would last only a few minutes before freezing to death; and in these conditions it might take an hour to pick up a man overboard, if you could find him.
+Maybe for this reason no one bothered to don a life jacket.
+It was then I noticed Wolter, his arm wrapped tightly around a rail, trying not to look at everything at once.
+It was Wolter whose ass was really on the line out here.
+If a Huisman mast snapped, or a Huisman hull leaked, and a Huisman yacht sank, a long and glorious family tradition bubbled to the bottom of the North Sea floor.
+That is why Wolter and his three hundred stout and sturdy craftsmen back in their tiny village in the north of Holland resisted change.
+They did not cling to the past mindlessly.
+But they were as immune as people can be to the allure of a new way of doing things.
+Wolter had spent the past three years wrestling with a great force
+that had neither the time nor the taste for tradition.
+The struggle had turned Wolter into an old man.
+Before Jim Clark had come to the boatyard at the end of 1995, Wolter had never heard of Silicon Valley, or of the Internet, or, for that matter, of Jim Clark.
+Yim, as Wolter called him, had sat down amid the exquisite models of ships built centuries before, and the old black-and-white photographs of Wolter and his ancestors at work building them.
+He had seen a yacht Wolter had just finished building, he said, and wanted one like it.
+He wanted his mast to be the biggest mast ever built.
+And he wanted to control the whole boat with his computers.
+Specifically, he wanted to be able to dial into his boat over the Internet from his desk in Silicon Valley and sail it across the San Francisco Bay.
+It was as if someone had distilled manic late twentieth-century American capitalism into a vial of liquid and poured it down Wolter's throat.
+Only a small part of the discomfort experienced on that wintry, gray December afternoon on the North Sea was physical.
+Most of it occurred inside of people's minds.
+Clark pushed people into places they never would have gone willingly.
+Often the people who'd been pushed assumed, for one reason or another, that Jim Clark, the rich man from Silicon Valley who seemed to know what was about to happen before anyone else, would make sure that it didn't happen to them.
+The problem with their assumption was that it wasn't true: all Jim Clark ever guaranteed anyone was the chance to adapt.
+His penchant for disrupting his environment was at the bottom of every new company he created; now he'd used it to transform a sailboat.
+The many strange deep sensations on boardWolter's dread, Allan's frustration, the computer geeks' unlikely feelings of responsibilityall were the doing of Clark and his new technology.
+It was a single great, messy experiment, which, in retrospect, was bound not to end well.
+At the moment when the seas were most fierce, the boat's tiny population huddled together on the stern.
+Hyperion pitched and rolled; its passengers clung to the rails and to each other.
+Even Allan, who had sailed around the world three times in boats the size of Clark's bathtubs back in California, was numb as a mummy.
+It's more like throwing something into a washing machine to see what breaks.
+It would have occurred to no sane person at this point to crawl along
+the side and have a look around.
+He emerged from his cabin, where he'd been fiddling with his computer, and made his way up the safety ropes along the side.
+Since Hyperion was 157 feet long, and he was six foot three, this took some doing.
+I should say that he did not look as he was expected to look; his appearance was just another element of surprise in a surprising universe.
+He was tall and broad in a way computer nerds are not supposed to be.
+His blond hair was neatly combed.
+His features were small and delicate: one could easily imagine that he resembled his mother.
+Unlike most men who make billions of dollars for themselves, he had an expansive, easy manner.
+At any rate, that's the first impression he made.
+If you looked closely, you could see that each of the slow and easy gestures was countered by another that was small, tense, almost involuntary.
+His body language was engaged in a debate with itself.
+It was as if he had an itch that he was refusing to scratch.
+When he reached the bow, he climbed up toward the world's tallest sailboat mast, which rose to a point 189 feet over the deck.
+He put his hand on it, to steady himself.
+There he stood for some long while, a large yellow lump of Gore-Tex, directly beneath the tall, rigid white rod of his ambition.
+He was looking, it appeared, straight up at the sky.
+What he was looking for, no one could say.
+Probably he was thinking about something he might like to change.
+Possibly he was not thinking at all but groping.
+That is how his mind workedthe logic always came after the initial, inexplicable, primal impulse.
+But whatever he was doing he didn't do it for long.
+Once he'd found his footing, his mast began to sway.
+At first its movements were barely perceptible; then they became more pronounced; at last they were violent.
+Later someone who had been on the bridge said he had heard a loud crack.
+The rubber at the base of the world's tallest mast had shattered.
+The foot-wide seal that kept Clark's 189 feet of carbon fiber standing straight had frozen into a crystal, and then broken to bits.
+The mast came loose in its socket.
+Its three and a half tons rocked wildly back and forth, like a broomstick rattling around inside a garbage can.
+As quickly as he could press a button, Allan Prior lowered the sail, before the mast itself broke and fell over into the sea.
+Not long after he drew the Magic Diamond with himself at the center of the U.S.
+health care industry, Clark drove up to Sand Hill Road to see the venture capitalists.
+The venture capitalists advertised themselves as the great financial risk takers of the Valley, but you could learn everything you needed to know about their attitudes toward risk, simply by driving up Sand Hill Road.
+Sand Hill Road was where the venture capitalists clustered together for safety, like ducks in a park waiting for the bread crumbs to fall.
+Each time Clark made this trip, the ducks came out of it worse than the time before.
+The price of the crumbs rose; and they had to quack louder for them.
+When Clark had gone to see the venture capitalists about Netscape, it was with the understanding that he would act as the CEO until the company was up and running.
+This time he proposed not only that he take home the lion's share of the stock in the new company but that the venture capitalists do all of the actual work.
+Clark had no plans to spend even a day in the Healthscape offices.
+He had ceased to be a businessman and become a conceptual artist.
+Having articulated the new new thing, Clark intended to return to the important work of teaching his computer to sail his new boat.
+Amazingly, the question in his mind was not whether a venture capitalist would accept this deal, but which venture capitalist he would grace with his presence.
+The venture capitalists had learned a hard lesson from Netscape.
+Before Netscape went public, a lot of venture capitalists had thought John Doerr and his firm, Kleiner Perkins, had been mad to agree to Clark's terms.
+Clark had charged Doerr three times the going rate for start-up capital.
+Doerr had cleared $500 million or so in eighteen months, or thirty times his original investment, and become the most talked-about venture capitalist on Sand Hill Road.
+The other venture capitalists were forced to concede the point: the new, higher price for concepts, and the people who dreamed them up, was obviously worth paying.
+Dick Kramlich from New Enterprise Associates (NEA), the Valley's biggest pile of venture money and health care expertise, made the strongest pitch to Clark.
+Clark still complained about the way Kramlich had joined forces with Ed McCracken to muscle him aside at Silicon Graphics.
+But Kramlich was one of those gentle souls who just want everyone to get along, and he was, at least on the surface, willing to subordinate his ego to others.
+Kramlich had turned up at one of Netscape's meetings with investors immediately before the IPO, and told Clark how happy he was for his success.
+This act of self-abasementa formal acknowledgment that Clark was too important to ignoreencouraged Clark to rethink his opinion of Kramlich.
+He still hadn't forgiven Kramlich for siding with Ed McCracken, and he never would, but he was, let us say, touched by the gesture.
+As it happened, Clark had a motive for reconsidering his irritation with Kramlich: he was now even more irritated with John Doerr.
+Whenever Doerr's name came up, Clark's mouth went into full-pucker mode.
+When Clark had offered Doerr the chance to invest in Netscape, Doerr had been rather down on his luck.
+Between 1991 and 1993 Doerr had persuaded a lot of people, himself included, that the future of the Valley was in pen computing.
+Pen computing was a version of the Palm Pilot, ahead of its time.
+Doerr had burned tens of millions of capital on a dramatic failure to stuff computers into ordinary people's pockets called GO.
+After GO, Doerr seized on interactive television.
+He took to making futuristic speeches the theme of which was that interactive television would transform the world.
+He'd give the same speech right through to the end of the decade, simply replacing "interactive television" with "the Internet."
+Clark had rescued Doerr from that particular blind alley, and then helped him to cook up other new Internet companies.
+Clark and Doerr shared an obsession with Microsoft.
+Both felt that the Internet would be too big for Microsoft to ignore.
+They assumed, further, that a few years down the road the Internet would enter people's homes through their television cables, which could transmit data much faster than phone lines.
+Ergo, Microsoft would seek to dominate the cable Internet industry.
+@Home was designed to secure the cable industry for Silicon Valley.
+The important work was in the concepts, so far as Clark was concerned, and the concept for @Home had been at least as much his as Doerr's.
+And yet Doerr's firm, Kleiner Perkins, had denied Clark the chance to buy a piece of @Home, at least at first.
+Kleiner Perkins hewed to the old venture capital model, which relegated entrepreneurs like Clark to the sidelines of any business they did not explicitly create.
+They declined to pay Clark at his new conceptual-artist rates.
+Clark responded by telling Doerr that he planned to go elsewhere with his concepts.
+Now he had one: the Magic Diamond.
+Once again he had put his name on a concept and was off and running down his long, dark tunnel.
+A few weeks after he saw Kramlich at the Netscape gathering, Clark drove up Sand Hill Road and paid a call on NEA, Kramlich's venture capital firm.
+Kramlich finally seemed to understand that the world had changed, and that the engineer with the beautiful concept was its natural ruler.
+That was a big point in Kramlich's favor.
+Kramlich gathered his partners into the conference room.
+Of course, no one who actually understood the U.S.
+health care system would have dared to make such a grandiose statement.
+And, of course, Clark knew he did not understand itand knew also, or at least sensed, that his lack of understanding was a psychological advantage.
+No one who understood the U.S.
+health care industry would bother to try to fix it.
+Kramlich and his partners responded just as Clark assumed they should.
+They wanted a piece of the action.
+They asked him to come up and talk to them again.
+The failure to land Netscape had already cost Kramlich half a billion dollars.
+That failure was in part blamed on Alex Slusky, the young Harvard Business School graduate who had been assigned to trail behind Clark after he quit Silicon Graphics.
+Slusky had been forced to move on from NEA shortly after Netscape went public.
+Fired in this case just means they made Alex's life so miserable that he left.
+To handle Clark this time around, Kramlich lined up two senior partners, whom I'll call Phil and Bill.
+Phil and Bill were NEAs health care specialists.
+Phil and Bill were also pretty much everything Clark hated about venture capitalists.
+Both were self-consciously "professional" men who knew how to dress down for meetings with engineers and how to dress up for meetings with Wall Street financiers and never said anything in any of these meetings that surprised anyone.
+They were conventional people who assumed that conventions made the world go round, which, of course, they usually do.
+In any case, they didn't really believe in the possibility of change, and so did not bring the passion of revolutionaries to their work.
+As one of their NEA colleagues explains it, "Phil and Bill were totally unwilling to work nights and weekends, to write a business plan, brainstorm, spend time with Jim during the off hours, etc."
+Phil and Bill, even more than Dick Kramlich, viewed Clark as a dangerously volatile, perhaps even mad, character who needed to be "managed."
+Clark looked around Dick Kramlich's conference table filled with NEA partners and said he wanted nothing to do with Phil and Bill.
+Hugh was Hugh Reinhoff, a young doctor with little business experience who had just quit one job at Johns Hopkins and taken another in NEAs Baltimore office.
+So far as Phil and Bill were concerned, Hugh was an interloper.
+So far as Clark was concerned, that was fine.
+Clark often preferred young, inexperienced people over older, more experienced ones.
+Even if they didn't quite know what they were doing, at least they hadn't learned the wrong things.
+They hadn't lost their passion; they hadn't become Business Bores.
+And so, in September 1995, at Clark's fierce insistence, Hugh took over where Alex Slusky left off.
+He became Clark's personal minder on the sprint down the long, dark tunnel.
+"My jo was not to leave Jim's side to make sure that NEA got a piece of whatever Jim created.
+Improbably, Clark had been catapulted to the top of the capitalist food chain.
+Once there, he insisted that the people who had spent their careers there act more like him.
+He expected the venture capitalists to join him in throwing money at the idea and letting his engineers work out the details.
+Up until then the businesses funded by Silicon Valley venture capitalists may have been adventurous by the standards of American commerce, but the adventure was well planned.
+Now the adventure was reckless; Clark was making it up as he went along.
+Deep in his intuitive soul he thought "business plans" and "business models" and "management structures" were a waste of time.
+Time was the one commodity you could not waste if you wanted to make a billion dollars from the Internet.
+Once he had identified the new new thing, all he needed was some really smart, passionate engineers to chase after it and make it happen.
+After all, the idea was simple: eliminate the paperwork, the waiting around, and the market illogic from the U.S.
+health care system by bringing all the people in that system together on a single network.
+The idea was not nearly as astonishing as Clark's audacity in putting it across to the venture capitalists.
+At the same time that he was telling them how to invest their money, and plotting to take over the $1.5 trillion health care industry, Clark was working nearly full-time as a computer programmer.
+He took on the world's single largest market as a part-time job.
+When he woke up in the morning, he wrote code for his boat; when he went to bed at night, he stared at the ceiling and thought about the bugs in the boat's code.
+He communicated with the venture capitalists chiefly by e-mailwhich is to say that he rarely actually had to see them anymore.
+A chapter could probably be written on the effect of e-mail on the American business imagination.
+Within about eighteen months it had gone from being exotic to essential.
+Those businessmen who were uncomfortable with computers cheated and pretended to use e-mail.
+Netscape's CEO, Jim Barksdale, for instance, did not actually fetch his own e-mail but had his secretary type it up for him.
+But all of the people with whom Clark dealt were now available at his fingertips whenever a whim might strike him at three in the morning.
+He had a lot of whims.
+Most of Clark's early missives betrayed his concern with finding people he liked to run Healthscape.
+He wanted to hire people he trusted rather than people the venture capitalists recommended.
+For instance, on October 24, 1995, Clark wrote to Hugh Reinhoff,
+TJ could absolutely do the job of CEO but I doubt he's interested because although he'd like to make more money, he's not risk oriented.
+I also met with the best software manager at SGI and he is interested...
+keep this highly confidential, because while he expressed interest in going, I don't want anyone else to get wind of this.
+The moment Netscape went public, it started getting résumés from Silicon Graphics' engineers.
+Already Clark had received letters from Ed McCracken's lawyers threatening to sue him if he recruited engineers from Silicon Graphics.
+The Valley's leading venture capitalists did not instantly adopt all of Clark's assumptions about work and life.
+But they entertained them.
+And they tended to let Clark have his way.
+Clark now possessed a new kind of powerhe could go anywhere he wanted with his precious concepts, and if the venture capitalists did something he did not like, he would.
+Inevitably, the venture capitalists did something he did not like.
+Toward the end of October, Dick Kramlich invited Mark Perry, the vice chairman of Silicon Graphics and an Ed McCracken sympathizer, to become a partner at NEA.
+In theory, this should have been none of Clark's business; in practice, Clark now had a lot to say about what happened inside any venture capital firm that wanted his concepts.
+On October 31, 1995, Clark fired off an intemperate e-mail to several NEA employees:
+Dick is nuts for getting Mark Perry as partner of NEA.
+Your firm went down a notch when I heard that.
+It calls into question Dick's judgement.
+Quite an insult to the rest of the partners.
+Sorry to be so blunt.
+With that out of his system, he made some small attempt at conciliation:
+and this would not be good.
+I intend to recruit heavily from SGI.
+Then he gave up being sweet:
+Anyway, I think you'll probably have to co-invest with Kleiner Perkins, and if I detect any problems with these guys hearing about my recruiting, I will move away from NEA pronto.
+Breaking up was never all that hard for Clark to do.
+E-mail made it easier.
+As he was well aware, the whole point of Hugh's shadowing him was to prevent him from drifting into the arms of other venture capitalists.
+Kramlich's nightmare was Clark wandering up the road to John Doerr at Kleiner Perkinswho simply by following Clark's lead was already being treated as the venture capitalist of the future.
+Clark's tiff with Doerr had given Kramlich his opening; now Clark was saying that his new irritation with NEA exceeded whatever lingering resentment he felt toward Doerr.
+Inside NEA the situation quickly went from bad to worse.
+Another partner complained regularly that Clark was mucking up their entire investment portfolio by persuading them of his latest ideas about the Internet, which he often himself abandoned.
+Half the firm was furious that Kramlich had done a deal with the devil; the other half was furious that the deal had not been fully consummated.
+And once it was clear they might lose control of Clark to John Doerr, all hell broke loose.
+Kramlich tried to pull Hugh Reinhoff off Clark and slide in, once again, the older and more established pair, Phil and Bill.
+Phil wrote Hugh, instructing him to back away from Clark.
+Hugh wrote Phil and said he'd do so, gladly.
+The trouble was that, whether or not Hugh knew it, Clark now was in control of Hugh.
+And Clark didn't like being told that he had to deal with Phil.
+He wanted Hugh and, as was now abundantly clear, what Clark wanted Clark got.
+He shot off another e-mail that found its way to Dick Kramlich:
+I'm really pissed at Phil's attitude.
+He is a fucking partner there ....
+I'm not going to let NEA have as much of the deal because of his childish behavior.
+That is a fucked up partnership, with babies like him as General Partners.
+Within days Clark had called a meeting with NEA that included John Doerr.
+Within weeks he had agreed to split the equity into eleven parts, he and Kleiner Perkins each taking four parts and NEA getting only two.
+Thanks for getting the NEA and KPCB groups together to share ideas.
+John Doerr's now predicting that you may be the only entrepreneur on the planet to found THREE ventures worth more than a billion dollars.
+Schnell was yet another medical doctor who had decided that he wanted to be a venture capitalist.
+He was now a Kleiner employee who had been told by his bosses that, if he wanted to make partner, he needed to prove himself.
+The bosses' idea of how Schnell might prove himself was to become a captain of one of Jim Clark's ships.
+Schnell, who knew perfectly well what it meant to be a captain of Jim Clark's ship, politely declined.
+In the end, he was given no choice, and he became, reluctantly, Healthscape's acting CEO.
+The sycophantic tone of his e-mail to Clark suggested that Schnell, like every other venture capitalist, felt Clark needed to be "managed."
+He sought to give Clark the feeling that he was in control of what might become the world's largest company without giving him actual control.
+As a result, it wasn't long before Clark found fault with Kleiner Perkinsoror at least with David Schnell.
+Schnell, together with Hugh Reinhoff at NEA, kept trying to pin Clark down, by offering up various "business models" and "business plans" for Healthscape.
+In early December, Clark wrote to both.
+The problem I have with the way this discussion with KP/NEA and me has been going is that it is more or less in the abstractthat is, we're cooking up a business plan without a management team.
+This may be the way some companies are formed, but I'm more interested in finding bright people with a passion to change the way things are.
+Clark had required only about six weeks of very part-time work to sow strife inside Dick Kramlich's partnership.
+He required only a few weeks more to disrupt John Doerr's.
+The guy inside the venture capital firm who worked with Clark, he grumbled, was always the guy who got fired.
+He was more prescient than he knew.
+That was how it was now with Clark and the venture capitalists who now sat on top of American capitalism, funding the many people newly engaged in the search for the new new thing.
+Clark was at best ambivalent about young men in suits who had gone to business school and never run a real risk in their lives.
+He certainly was never going to let them have their way, unless their way happened to be his way.
+This raises an obvious question: Why did the world's most important venture capitalists put up with Clark?
+Surely, it would have been easy enough for Kleiner Perkins or NEA to announce that they were backing someone else to do the same thing as Clark.
+Valley venture capitalists stole each other's ideas all the time.
+Right from the start Clark put much less effort into his enterprise than they didthough even they did not know that he was spending most of his time computerizing a boat.
+I knew Jim was doing this on the side.
+I really didn't know what else he was doing.
+I assumed it was Netscape that took up most of his energy.
+And yet not once did anyone dare to suggest that Clark was not carrying his load, or that the business would be better off without him.
+That was the miracle of Jim Clark: by the end of 1995 he had created a money-making machine in which he was the least easily replaced part.
+The venture capitalists, the investment bankers, the CEOsthey were all fungible.
+If you were going to seize control of a $1.5 trillion industry you needed a certain authority with the engineering class.
+In the fall of 1995 no one in the Valley had the same authority with the engineers as Clark.
+That aura was why every one of the e-mails sent from Kleiner and NEA to people who might come to work for Healthscape boasted right up front that the Magic Diamond was Jim Clark's idea.
+In late 1995 a new kind of faith was in the engineering mind.
+Engineers believed that if Jim Clark said he was going to do something new, however outlandish his proposal, he would do it.
+And Clark responded to the faith by cooking up ever more outlandish new things to do.
+The software that was required to link the entire U.S.
+health care industry was not trivial to design.
+The land-grab logic of the Internet meant that it had to be thrown together about three times as fast as it should.
+To build a complicated piece of software so quickly you needed engineersand not just any engineers.
+You needed the smartest engineers.
+By late 1995 the smartest engineers in Silicon Valley had a lot of choice in how they spent their time.
+The Valley was booming.
+A lot of people were claiming to have stumbled upon a great new business opportunity.
+To attract the smartest engineers you needed to persuade people that you had the new new thing.
+Clark figured that there were about three software cowboys who could pull off what he had in mind, as quickly as it needed to be pulled off.
+All worked for Silicon Graphics.
+He knew them all and spoke to them all, and they were all more than a little interested in working for him.
+In the end, he decided that one more than the others had the passion to change the world.
+On Christmas Eve 1995, Clark's final choice arrived at Kleiner Perkins for his interview with David Schnellwhich even Schnell knew was a formality.
+I think he's great, and I believe he wants to join.
+Like a lot of software engineers in Silicon Valley, Pavan Nigam can recall where he was when he heard about Netscape's initial public offering.
+Or, at least, he can figure it out.
+He was in Indiahe's sure of that.
+He couldn't have been in Kanpur, his hometown.
+Kanpur was a squalid, fly-specked, death- drenched city overrun by cows and pigs and chickens.
+When a person with Western standards of hygiene stepped off the train in Kanpur, his first thought was to get right back on.
+Even Pavan now found it repellant.
+More to the point, Kanpur did not receive American newspapers.
+And Pavan distinctly recalls reading the front page of USA Today.
+So he must have been in Delhi, which means he was in a hotel.
+So in a Delhi hotel he picked up the August 10, 1995, edition of USA Today and read that Netscape had risen from its offering price of $18 a share to a high of $171.
+By late 1995 Pavan's mental state was not good.
+In the fifteen years since he had come to America from India, he had risen to what he thought was fantastic heights in Silicon Valley.
+He had just finished eighteen putatively spectacular months at Silicon Graphics, where he had been the boss of the most glamorous engineering project in the Valley: the creation of the world's first interactive television.
+He'd hired fifty of the smartest engineers ever assembled under one roof.
+He'd spent three hundred million corporate research dollars.
+He'd had his name and his picture in the newspaper; famous businessmen had told him that his work was important.
+And all he had to show for it was a black box that was supposed to sit on top of people's TVs but was as hopelessly out of touch with the market as the Kitchen Computer.
+Not a single one was ever sold.
+Great technical success had proven to be a great commercial failure.
+Just a bunch of engineers solving problems.
+Anyway, by the time he left for India and a few weeks of serious self-examination in August 1995, Pavan suspected that Jim Clark was always right, except, of course, when he was wrong.
+And when Jim Clark was wrong, he wasn't around to suffer the consequences.
+The lesson Pavan extracted from the bitter experience was to watch what Jim Clark did, not what he said.
+Before he boarded the plane, Pavan called his stock broker and left an order to buy Netscape at the opening.
+Reading USA Today in a Delhi hotel, he calculated that he must have bought at $50the price of the first tradesand sold at $100 the price at which he'd instructed his stock broker to sell.
+He never seriously believed that Netscape's share price would reach $100.
+It was the easiest money I ever made in my life.
+With that and many other thoughts on his mind, Pavan returned to the squalor of Kanpur.
+I remember sitting there in my parents' house for two weeks with all these cows running around me.
+I remember that I decided right then whatever I did next it was going to be with the Web.
+Pavan had learned enough about American capitalism to know that where the stock market went the opportunity followed.
+That thought was followed pretty quickly by a second thought.
+I remember thinking that if I could find out whatever Jim Clark planned to do next I would do that.
+The Silicon Valley labor market was one of the many new joys in Jim Clark's new life.
+Having decided that the $1.5 trillion health care industry was the new new thingand, in so deciding, having transformed it into the new thingClark needed to hire a lot of smart people quickly.
+There was no easier place on the planet to do that.
+Silicon Valley engineers had long treated the companies they worked for with less than the usual fidelity to the corporate cause.
+Their bosses, of course, disapproved of those who defected, and so there was a running debate about what was simply the proper workings of a free market and what was an unseemly breach of loyalty.
+The steady stream of engineers out of Silicon Graphics and into Netscape just before Netscape went public prompted Ed McCracken's lawyers to write Clark nasty letters.
+With Healthscape, Clark figured he needed even bigger brains, and planned to poach them from Silicon Graphicsonly he couldn't be seen to do it.
+His solution to the problem was to sneak in and hire one fine software cowboy and let him be the Pied Piper.
+If he hired the right person, the rest would beg to follow, and Ed McCracken could do nothing to stop them.
+The moment of conception was, to Clark's way of thinking, the critical moment of any new enterprise.
+At that moment it was important not merely to hire the people bent on changing the world but to avoid hiring the people bent only on changing jobs.
+There are all sorts of guys who will show up because they can't think of anything else to do.
+Those are exactly the people you don't want.
+I have a strategy for dealing with these people.
+We're all confused here.
+We don't know what we're going to do yet.
+Here's exactly what we're going to do and it is going to be huge and you are going to get very, very rich.
+For engineering talent Clark looked to Silicon Graphics.
+In particular he had his sights on the Indian engineers who had taught him to write the code for his boat and then built the interactive television.
+As it happened, the Indian education system had been built to find and to cultivate precisely those skills Clark, and people like Clark, valued most.
+Of course, that isn't how it was originally conceived.
+The Indian educational system was conceived by Nehru in reaction to the British colonial experience.
+Nehru believed that India was more likely to remain an independent country if it made itself technologically equal to its former rulers.
+To that end he created a ruthlessly efficient mechanism for finding and exploiting Indian technical talent.
+It was called the Indian Institute of Technology.
+The IITs were created in the early 1960s with foreign aid.
+The IITs became the funnel through which young Indians who finished high in a national standardized test passed on their way into Nehru's game of catch-up ball.
+The force of their attraction was spectacular.
+It was as if a nation of 900 million people had set out to find the few among them most able to program a computer, and leave nothing to chance.
+By the time the Nehru regime finished engineering Indian society, every parent in the country wanted his son to become either a doctor or an engineer.
+By the early 1970s hundreds of thousands of Indian seventeen-year-olds were sitting for the annual two-day engineering exams.
+A few weeks after the exam the results were posted in the newspapers.
+The two thousand students with the highest scores won admission to the IITs and had their names printed in the newspaper.
+Imagine the thrill of gaining entrance to Harvard.
+Multiply it several times.
+That gives you some idea of the sense of destiny that accompanied admission to an IIT.
+But the exam was just the beginning of India's search for its own technical aptitude.
+The two thousand students who passed the test were further ranked according to their scores.
+Beginning at the top, they selected the schools and the departments they wished to enter.
+These schools and their departments had their own informal hierarchy.
+For instance, by the early 1980s the most desirable place to study in the whole of India was the computer science department at IIT Kanpurthe school funded by the United States.
+The Kanpur computer science department had only fifty places.
+By the time the student who had placed 100th in the exam wandered in to make his choice, the places were already taken by others who had done better on the exam.
+Out of the 150,000 Indian high school students who took the national exam in 1975, Pavan Nigam finished 91st.
+He took one of the last places in computer science at Kanpur.
+He couldn't have known it at the time, but his success put him on a collision course with Jim Clark.
+A system designed to churn out engineers for a Third World economy would soon be used to its greatest effect in the quest for the new new thing.
+The talent that the government had gone to such trouble to find and cultivate wound up being some of the most sought-after corporate employees on the planet.
+All these bright young men spoke English.
+They could quite easily pick up and go to America, which was paying the highest price for their talent.
+And, in massive numbers, that is exactly what they did.
+Indian engineers flooded Silicon Valley in the 1980s and 1990s.
+By 1996 nearly half of the 55,000 temporary visas issued by the U.S.
+government to high-tech workers went to Indians.
+In early 1999 a Berkeley sociologist named AnnaLee Saxenian discovered that nearly half of all Silicon Valley companies were founded by Indian entrepreneurs.
+The definitive smell inside a Silicon Valley start-up was of curry.
+So one day when Jim Clark had finished writing his code for the boat, he picked up the phone and called Pavan Nigam and told him about his idea for making him rich.
+When Pavan asked for a business plan, Clark simply revealed the Magic Diamond with Healthscape at the center.
+Pavan was at first very excited; then he was very nervous.
+Software engineers went hunting in packs: he couldn't do such a big project alone.
+Where would he find the engineers he needed to help him?
+The difference between a great software guy and an okay software guy is huge.
+A great software guy is worth ten times an okay software guy.
+Software wasn't like hardware; software was more like art.
+Clark was thrusting a project on him that required the very best artists.
+True, a lot of those people worked with him at Silicon Graphics.
+Like Clark, though, Pavan knew that Ed McCracken's lawyers would not put up with a systematic raid on the staff.
+And if he couldn't actively recruit from Silicon Graphics, where would he find the brilliant engineers he needed to succeed?
+Clark's confidence finally swayed Pavan.
+An hour later Pavan's anxiety came storming back.
+After all, he was at that moment a very senior guy at Silicon Graphics, and Silicon Graphics was a very well-established corporation.
+It was a big risk for him to jump to running a start-up.
+He knew exactly nothing about the U.S. health care system.
+He had never been inside an American hospital, or visited an American doctor.
+He wasn't even sure what his own health insurance covered.
+Pavan phoned Clark back.
+I thought about it, and I don't think they'll follow me.
+But how could Pavan trust anyone with a decision of such importance?
+Clark was already a billionaire.
+ITV had demonstrated Clark's ability to lead Pavan and a lot of other people down a blind alley and into a brick wall.
+What if Clark changed his mind again?
+He'd be the thirty-six-year-old Indian immigrant who had built a black box no one had bought, sitting alone in an office while everyone he knew laughed at him behind his backthat's where he'd be.
+Fix the U.S. health care system.
+Pavan knew well that it was possibly illegal and certainly immoral for him to recruit from Silicon Graphics.
+But surely he could pick one person and have a chat.
+There was one person above the rest who would considerably ease Pavan's anxiety, Kittu Kolluri.
+Kittu was both the smartest engineer he had working for him and a trusted friend.
+Surely Pavan had a right to confide his discussion with Jim Clark to his friend.
+For a few years Kittu Kolluri had been the chief target of Jim Clark's weird phone calls.
+Clark called him KEE-TOO, when the correct pronunciation was KIT-TOO.
+Whenever Clark was floating off the coast of Tahiti or Borneo and needed a bit of advice on the computer program he was writing for the yacht, he could not afford he called Kittu.
+Kittu could not understand why the chairman of a big American corporation would spend his time writing computer code.
+He understood very well, however, why a man writing computer code would call him for help.
+Kittu was another fine example of the power of Indian society to ferret out its technical talent and catapult it in the direction of people like Clark, who knew how to use it.
+There are these definite moments in my life, when I know that things changed and I became an engineer.
+The first such moment was when his cousin from Bombay came one summer to visit his family in Hyderabad.
+Kittu was in the sixth grade, and his cousin was a pretty young woman.
+She was completely in love with him because he was so smart.
+She talked about how she loved his brain.
+He went to an Indian Institute of Technology.
+That was the first time I ever heard of an IIT She spoke to me about him for two straight hours! I was captivated.
+I mean, what she was describing was a complete geek.
+She talked about how he had these twelve-inch spectacles and so on and so forth.
+He sounded like a pretty grotesque-looking guy when you thought about it.
+But she kept saying how brilliant he was.
+And he's all she talked about.
+And I fell in love with the image my cousin had of Mokund Thapa.
+I wanted to be like Mokund Thapa.
+One evening the next year, when Kittu was in the seventh grade, he fought with his fatherabout what he does not recall.
+But he had gone off to a corner of the house and curled up to sleep.
+But I didn't know I was this good.' After that it became a complete obsession for me.
+I was going to go to an IIT.
+Kittu, like Pavan, left India the minute he graduated from his IIT.
+After the requisite two years inside some American graduate school, which the Indians treated as a weigh station en route to Silicon Valley, Kittu had landed his job at Silicon Graphics.
+Not long after that he met Clark.
+And not long after that he found himself a kind of professional observer of Clark's quest for the new new thing.
+Jim Clark's mind was Kittu's hobby; Kittu was fascinated that such a technically minded person could be so happy groping blindly toward big piles of money.
+Jim Clark has a clarity of vision that is prompted by the purest form of greed.
+Like the other young programmers in the ITV department, Kittu could have had himself a job at Netscape the day the company was founded simply by turning up at the front door.
+I knew that I was making a mistake by not joining Jim at Netscape.
+In December 1995 he remained a Silicon Graphics employee earning a salary of $89,000.
+Had he followed Clark into Netscape, he would have been worth $20 million.
+Like Pavan Nigamlike pretty much every engineer at Silicon GraphicsKittu saw a certain injustice in this.
+He viewed the computer engineers at Netscape as ever so slightly second-rate.
+Certainly, the best and the brightest had not left Silicon Graphics to join Clark.
+Technically the Netscape browser was not much of an accomplishment at all.
+It did not belong on the same page with what he and Pavan and the others had achieved in Orlando.
+We got all wrapped up in the technology.
+This puts a fine point on a painful truth: the purpose of that technology was to make money.
+The higher purpose of the interactive television was to facilitate the stupor of the guy on the couch with the beer in one hand and the remote control in the otherwhich is to say that it had no higher purpose.
+Its lack of any higher purpose made its ultimate failure even more absurd.
+Netscape, on the other hand, was clearly not a waste of time.
+If Jim Clark had not been there, Marc Andreessen and his friends would still be working for their Ph.D.'s at the University of Illinois.
+Thanks to Jim Clark the B team had got rich while the A team stayed middle class, at least in Kittu's view.
+Some engineers, especially the older ones, passed this off to the different "risk profile" of engineers who created new companies.
+The implication was that really brilliant engineers like Pavan and Kittu did not have the taste for risk required to take a flying leap into one of Jim Clark's fantasies.
+Clark was onto something when he went looking for Indians.
+It wasn't just that half his work had been done for him by the Indian government.
+It wasn't just that, next to the sifting mechanism through which Pavan and Kittu had passed, the Harvard admissions office was a kind, forgiving place.
+It was that any person with the brains to get into the IIT's and the gumption to get himself to the United States was capable of all manner of miracles.
+The Indian engineers had the lust for the kill that Clark loved.
+They were ferociously, recklessly competitive.
+Pavan and Kittu had finished in the top one-hundredth of one percent on the test taken by bright young Indians who probably were already in the top one-hundredth of one percent on the national brainpower scale.
+Yet about twice a week Pavan found a way to remind Kittu that he had finished 250 places behind him.
+To Kittu the suggestion that he was too smart to take risks was total bullshit.
+In the first place, how much risk was there in working for a Silicon Valley start-up?
+The worst thing that happened is that the startup failed, and you went back to your old job and your $80,000 a year.
+Silicon Graphics or any other big company would have hired them back the instant they applied.
+So far as Kittu was concerned, he'd lived his life on a high wire without a safety net.
+Watching the B team of computer science whooping it up down the road after the Netscape public offering enraged him.
+I'll tell you what I knew on the day Netscape went public.
+I knew my next company would be a start-up.
+And I knew that anything smaller than Netscape was unacceptable.
+That day in December 1995, after Jim Clark showed him the Magic Diamond with Healthscape at the center, Pavan went back to his job at Silicon Graphics.
+He asked Kittu to take a walk with him.
+The two men spent several hours walking along the manicured lawns of Shoreline Boulevard, down by the marshy reaches of the Bay where they were less likely to be seen.
