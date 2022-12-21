@@ -83,4 +83,4 @@ wandb/
 /data/
 /data_giscard
 data_giscard.zip
-/wav2vec2-giscard
+/wav2vec2-giscard*
