@@ -1,0 +1,61 @@
+-c constraints.txt
+cython
+ftfy
+gitup
+isodate
+jsons
+ninja
+omegaconf
+opencv-python-headless
+pillow
+pyyaml
+requests
+setuptools
+streamlit
+tqdm
+urllib3
+wandb
+
+# # For linting / code auto-formatting inside vscode (or other IDE). Should be fine to leave in, these
+# # are small dependencies, but also fine to remove when submiting an analytic:
+black
+flake8
+isort
+# isort==4.3.21 # Version works with nbextensions.
+
+# For notebooks / plotting (don't need when submitting analytic, but could also leave them in):
+ipython
+ipywidgets
+## Using the version from the git repo to resolve the "Config option `template_path` not recognized by ..." error messages when running jupyter-lab.
+## https://github.com/ipython-contrib/jupyter_contrib_nbextensions/issues/1529
+# jupyter_contrib_nbextensions
+git+https://github.com/jfbercher/jupyter_latex_envs.git
+git+https://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
+jupyterlab
+matplotlib
+nb-black
+nbconvert
+nbformat
+numpy
+pandas
+pandas-read-xml
+pandoc
+scikit-learn
+scipy
+seaborn
+plotly
+jupyterlab_code_formatter
+jupyterlab-lsp
+python-lsp-server[all]
+jlab-enhanced-cell-toolbar
+jupyterlab-snippets
+
+
+
+# ## Torch for CUDA11.x:
+# ## Don't use this section if installing via conda/mamba:
+# --find-links https://download.pytorch.org/whl/cu113/torch_stable.html
+# torch==1.10.1+cu113
+# --find-links https://download.pytorch.org/whl/cu113/torch_stable.html
+# torchvision==0.11.2+cu113
+# --find-links https://download.pytorch.org/whl/cu113/torch_stable.html
