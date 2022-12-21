@@ -1,18 +1,16 @@
 -c constraints.txt
 cython
-ftfy
-gitup
-isodate
+datasets
+gdown
+jiwer
 jsons
 ninja
-omegaconf
-opencv-python-headless
 pillow
 pyyaml
-requests
 setuptools
 streamlit
 tqdm
+transformers
 urllib3
 wandb
 

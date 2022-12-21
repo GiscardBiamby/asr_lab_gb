@@ -44,7 +44,6 @@ echo "Installing pytorch"
 #     cudatoolkit=11.1 \
 #     -c pytorch -c conda-forge -c anaconda -y
 
-mamba install -y pytorch==1.12.1 torchvision cudatoolkit=11.6 cudnn -c pytorch
 pip install --upgrade pip setuptools wheel -c "${SCRIPTS_DIR}/../constraints.txt"
 pip install -r "${SCRIPTS_DIR}/../requirements.txt" -c "${SCRIPTS_DIR}/../constraints.txt"
 
